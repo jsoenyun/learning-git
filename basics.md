@@ -5,3 +5,6 @@
 *git add - Place one or more files in the staging area
 *git diff - Shows differences in edits
 *git commit - Commits changes made to file that has been added
+
+
+RANDOM CHANGE
